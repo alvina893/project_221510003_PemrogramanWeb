@@ -5,19 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LaJiXT6HEei7HcV7YS2l-1" value="Pengguna / User" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="20" width="120" height="520" as="geometry" />
+          <mxGeometry x="40" y="20" width="180" height="520" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-3" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
-          <mxGeometry x="25" y="90" width="70" height="30" as="geometry" />
+          <mxGeometry x="37.5" y="90" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-4" target="LaJiXT6HEei7HcV7YS2l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-4" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
-          <mxGeometry x="50" y="40" width="20" height="20" as="geometry" />
+          <mxGeometry x="80" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-8" value="Klik tombol &#39;Publish New Crochet Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
+          <mxGeometry x="37.5" y="190" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-2" value="Sistem" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="20" width="120" height="520" as="geometry" />
+          <mxGeometry x="220" y="20" width="180" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-6" value="Tampilkan Halaman Utama Website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-2">
+          <mxGeometry x="37.5" y="90" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaJiXT6HEei7HcV7YS2l-3" target="LaJiXT6HEei7HcV7YS2l-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

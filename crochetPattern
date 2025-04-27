@@ -37,7 +37,7 @@
         <mxCell id="LaJiXT6HEei7HcV7YS2l-16" value="Isi Langkah-Langkah Pattern Rajut" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
           <mxGeometry x="37.5" y="440" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LaJiXT6HEei7HcV7YS2l-20" value="Klik Tombol &#39;Publish&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-20" value="Klik Tombol &#39;Publish New Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-1">
           <mxGeometry x="37.5" y="515" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-2" value="Sistem" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">

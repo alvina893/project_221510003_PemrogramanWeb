@@ -55,7 +55,7 @@
         <mxCell id="LaJiXT6HEei7HcV7YS2l-22" value="Simpan ke Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-2">
           <mxGeometry x="37.5" y="515" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LaJiXT6HEei7HcV7YS2l-24" value="Klik Tombol &#39;Publish New Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-2">
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-24" value="Publish Pattern Rajut pada Situs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LaJiXT6HEei7HcV7YS2l-2">
           <mxGeometry x="37.5" y="610" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaJiXT6HEei7HcV7YS2l-3" target="LaJiXT6HEei7HcV7YS2l-6">

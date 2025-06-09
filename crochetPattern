@@ -28,7 +28,7 @@
         <mxCell id="LaJiXT6HEei7HcV7YS2l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-15" target="LaJiXT6HEei7HcV7YS2l-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaJiXT6HEei7HcV7YS2l-15" value="Isi Foto Proyek Rajut" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-15" value="Masukkan Foto Proyek Rajut" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
           <mxGeometry x="37.5" y="360" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-16" target="LaJiXT6HEei7HcV7YS2l-20" edge="1">
@@ -37,7 +37,7 @@
         <mxCell id="LaJiXT6HEei7HcV7YS2l-16" value="Isi Langkah-Langkah Pattern Rajut" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
           <mxGeometry x="37.5" y="440" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LaJiXT6HEei7HcV7YS2l-20" value="Klik Tombol &#39;Publish New Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-20" value="Klik Tombol &#39;Save Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
           <mxGeometry x="37.5" y="515" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LaJiXT6HEei7HcV7YS2l-2" value="Sistem" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">

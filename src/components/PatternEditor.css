@@ -1,0 +1,62 @@
+/* Ensure lists are visible and styled in the PatternEditor instructions area */
+#pattern-instructions ul {
+    margin-left: 2em;
+    padding-left: 1.5em;
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+#pattern-instructions ol {
+    margin-left: 2em;
+    padding-left: 1.5em;
+    list-style-position: inside;
+    list-style-type: decimal;
+}
+
+#pattern-instructions li {
+    margin-bottom: 0.25em;
+    font-size: 1em;
+}
+
+/* Style for the Insert button in the image modal */
+.pattern-insert-btn {
+    background: var(--color-primary, #B9375E);
+    color: #fff;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.5em 1.5em;
+    font-weight: bold;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-top: 0.5em;
+}
+
+.pattern-insert-btn:disabled {
+    background: #eee;
+    color: #aaa;
+    cursor: not-allowed;
+}
+
+.pattern-insert-btn:not(:disabled):hover {
+    background: #a02d4e;
+}
+
+.pattern-instructions-view ul {
+    margin-left: 2em;
+    padding-left: 1.5em;
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+.pattern-instructions-view ol {
+    margin-left: 2em;
+    padding-left: 1.5em;
+    list-style-position: inside;
+    list-style-type: decimal;
+}
+
+.pattern-instructions-view li {
+    margin-bottom: 0.25em;
+    font-size: 1em;
+}

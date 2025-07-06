@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="VKsZ2VuUmaZ2yu7OZUxk">
+    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-1" value="Pengguna / User" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="180" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-3" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="90" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-4" target="LaJiXT6HEei7HcV7YS2l-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-4" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="80" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-8" value="Klik tombol &#39;Save New Crochet Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="190" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-14" target="LaJiXT6HEei7HcV7YS2l-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-14" value="Isi Judul Pattern Rajutnya" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="280" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-15" target="LaJiXT6HEei7HcV7YS2l-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-15" value="Masukkan Foto Proyek Rajut" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="360" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-1" source="LaJiXT6HEei7HcV7YS2l-16" target="LaJiXT6HEei7HcV7YS2l-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-16" value="Isi Langkah-Langkah Pattern Rajut" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="440" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-20" value="Klik Tombol &#39;Save Pattern&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-1" vertex="1">
+          <mxGeometry x="37.5" y="515" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-2" value="Sistem" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="20" width="180" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-6" value="Tampilkan Halaman Utama Website" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-2" vertex="1">
+          <mxGeometry x="37.5" y="90" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-12" value="Tampilkan Formnya" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-2" vertex="1">
+          <mxGeometry x="37.5" y="190" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-2" source="LaJiXT6HEei7HcV7YS2l-22" target="LaJiXT6HEei7HcV7YS2l-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-22" value="Simpan ke Database" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-2" vertex="1">
+          <mxGeometry x="37.5" y="515" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LaJiXT6HEei7HcV7YS2l-2" source="LaJiXT6HEei7HcV7YS2l-24" target="LaJiXT6HEei7HcV7YS2l-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-24" value="Tampilkan Pattern pada Situs" style="rounded=1;whiteSpace=wrap;html=1;" parent="LaJiXT6HEei7HcV7YS2l-2" vertex="1">
+          <mxGeometry x="37.5" y="610" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-26" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="LaJiXT6HEei7HcV7YS2l-2" vertex="1">
+          <mxGeometry x="80" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LaJiXT6HEei7HcV7YS2l-3" target="LaJiXT6HEei7HcV7YS2l-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LaJiXT6HEei7HcV7YS2l-6" target="LaJiXT6HEei7HcV7YS2l-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LaJiXT6HEei7HcV7YS2l-8" target="LaJiXT6HEei7HcV7YS2l-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LaJiXT6HEei7HcV7YS2l-12" target="LaJiXT6HEei7HcV7YS2l-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaJiXT6HEei7HcV7YS2l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LaJiXT6HEei7HcV7YS2l-20" target="LaJiXT6HEei7HcV7YS2l-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
